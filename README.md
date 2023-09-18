@@ -1,5 +1,5 @@
 # Wireguard Portals
-*Now your thinking with portals*
+*Now you're thinking with portals*
 
 ## What is it? 
 This is a helper script that makes it easy to set up bi-directional, site-to-site transparent proxies and bounce-servers using Wireguard. 
